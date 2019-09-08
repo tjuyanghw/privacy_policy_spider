@@ -1,0 +1,14 @@
+Numpy
+conda install -c anaconda numpy
+================================================
+fuzzywuzzy
+conda install -c conda-forge fuzzywuzzy
+================================================
+terminaltables
+conda install -c binstar terminaltables
+OR
+pip install terminaltables
+================================================
+StringDist
+pip install StringDist
+================================================
