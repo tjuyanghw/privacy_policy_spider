@@ -1,1 +1,3 @@
-# privacy_policy_visual
+# privacy_policy_spider
+1。关于Googleplay中抓取app信息和隐私政策的网址
+2根据上面抓取的隐私政策的url进行抓取隐私政策文本
